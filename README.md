@@ -5,12 +5,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElRespetador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/a9pavt.gif" />
+<br> 
+<div align="right">
+  <img height="150" src="https://i.imgflip.com/a9pavt.gif" alt="Gato en el computador" />
+</div>
 
+<br clear="both"> 
 ---
 
-## 🌎 Sociales:
-
+<h2>🌎 Sociales:</h2> 
 <div align="left">
   <a href="mailto:rodri.go.valdez2806@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
@@ -27,8 +30,7 @@
 
 ---
 
-## 💻 Tech Stack:
-
+<h2>💻 Tech Stack:</h2> 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
@@ -36,11 +38,4 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
-
-  </div>
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" />
 </div>

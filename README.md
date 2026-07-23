@@ -1,50 +1,18 @@
-<h2 align="left">Rodrigo Valdez</h2>
+# Hi, I'm Rodrigo! 👋
 
-###
+I'm a Systems Engineering student based in Corrientes, Argentina.
+Currently focusing on Backend, Software Development, and Competitive Programming.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElRespetador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElRespetador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<h2 align="left">💻Tech Stack:</h2>
+* **Languages:** Python
+* **Tools and Environment:** SQL, FastAPI, Git, GitHub, Docker, Linux
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/a9pavt.gif"  />
+### 📬 Contact
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🌎Redes Sociales:</h3>
-
-###
-
-<div align="left">
-  <a href="https://youtube.com/@rodrigovaldez102?si=B91ioLf-Op_CBXTL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="rodri.go.valdez2806@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/rodrigo-valdez-65712b374" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+* [**LinkedIn**](https://www.linkedin.com/in/rodrigo-valdez-65712b374)
+* [**Email**](mailto:rodri.go.valdez2806@ca.frre.utn.edu.ar)
